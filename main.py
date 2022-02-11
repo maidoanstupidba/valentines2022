@@ -1,3 +1,5 @@
+$ heroku create myapp --buildpack heroku/python
+
 import pygame
 import random
 import math
