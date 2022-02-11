@@ -1,5 +1,7 @@
 python -m pip install SomePackage == 3.8.12
 
+heroku ps:scale web=1
+
 import pygame
 import random
 import math
