@@ -1,5 +1,4 @@
-$ heroku buildpacks:set heroku/python
-heroku create --buildpack https://github.com/heroku/heroku-buildpack-python.git
+git push heroku develop:main
     
 import pygame
 import random
