@@ -1,4 +1,6 @@
- import pygame
+python -m pip install SomePackage == 3.8.12
+
+import pygame
 import random
 import math
 from pygame import mixer
