@@ -1,6 +1,4 @@
-git push heroku develop:main
-    
-import pygame
+ import pygame
 import random
 import math
 from pygame import mixer
